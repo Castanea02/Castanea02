@@ -20,6 +20,6 @@
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
-  <a href="https://www.instagram.com/castanea02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/castanea02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <p>act.ciders02@icloud.com</p>
 </div>
