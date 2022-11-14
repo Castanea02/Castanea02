@@ -1,5 +1,4 @@
 <div align="center"><H1>🌰 My Experience</H1></div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
@@ -22,14 +21,14 @@
   <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=black"/>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <br>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Castanea02&show_icons=true&theme=merko"/>
 </div>
 <br>
 
 <div align="center"><H1>💌 Contact Me</H1></div>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
-  <a href="https://www.instagram.com/castanea02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <p>act.ciders02@icloud.com</p>
+  <a href="#"><img src="https://img.shields.io/badge/act.ciders02@icloud.com-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
+  <a href="https://www.instagram.com/castanea02/" target="_blank"><img src="https://img.shields.io/badge/castanea02-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
