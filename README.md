@@ -32,5 +32,5 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/act.ciders02@icloud.com-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
   <a href="https://www.instagram.com/castanea02/" target="_blank"><img src="https://img.shields.io/badge/castanea02-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://cas-tanea.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/castanea02-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://cas-tanea.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/castanea02-486055?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div>
