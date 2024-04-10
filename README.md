@@ -33,6 +33,8 @@
   <br>
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02469B?style=flat-square&logo=Flutter&logoColor=white"/>
   
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Castanea02&show_icons=true&theme=merko"/>
